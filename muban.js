@@ -16,7 +16,7 @@ var json = {
 			title:'退款',value:`Refund you now. If did not receive in 24 hours, please contact us again, lately have some problem with our finance department.
 `},
 		                {
-			title:'图片',value:`Please send picture for us to check. Thank you.
+			title:'图片',value:`Please send picture for us to check, and picture of shipping label on package, a codebar tip on product wrapper would be even better. Thank you.
 `},
                 {
 			title:'买家收到物品 并且很满意，让买家确认物品已准时送达',value:`Dear friend,I’m so glad to hear that. Thank you very much for your kind message, we are happy to know that you have received your item. If you like our item or if you are satisfied with our service, hope you can leave us a positive feedback with all five star, meanwhile,you can confirm the item was delivered on time(connect to on-time delivery question, please say YES), that is very important to our business success. Thank you. Looking forward to next cooperation. Best wishes.
