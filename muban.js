@@ -13,7 +13,8 @@ var json = {
 			title:'退包',value:`It seems like your parcel returned by your local post office, do not worry, we will refund you after we received the package, you can check by yourself, the tracking number is 
 `},
                 {
-			title:'退款',value:`Refund you now. If did not receive in 24 hours, please contact us again, lately have some problem with our finance department.
+			title:'退款',value:`Refund you now. If did not receive in 24 hours, please contact us again, lately have some problem with our finance department. Hope you can leave a positive feedback, sorry about this situation.
+
 `},
 		{
 			title:'图片',value:`Please send picture for us to check, and picture of shipping label on package, a codebar tip on product wrapper would be even better. Thank you.
