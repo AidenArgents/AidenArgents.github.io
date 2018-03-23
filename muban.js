@@ -20,6 +20,12 @@ var json = {
 			title:'图片',value:`Please send picture for us to check, and picture of shipping label on package, a codebar tip on product wrapper would be even better. Thank you.
 `},
 		{
+			title:'回给冷静的买家',value:`Thank you for understanding, hope you can get your item soon! have a nice day.
+`},
+		{
+			title:'同意假重发',value:`Thank you for understanding, we will arrange it in 12 hours, have a nice day.
+`},
+		{
 			title:'回好评',value:`thanks for your long time support. have a nice day.
 `},
                 {
