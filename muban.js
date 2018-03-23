@@ -20,6 +20,12 @@ var json = {
 			title:'图片',value:`Please send picture for us to check, and picture of shipping label on package, a codebar tip on product wrapper would be even better. Thank you.
 `},
 		{
+			title:'退半款',value:`Would you kindly accept half refund as apology, sorry about this situation.
+`},
+		{
+			title:'退全款',value:`Would you kindly accept full refund as apology, sorry about this situation. hope you are not leaving any negaitve feedback.
+`},
+		{
 			title:'回给冷静的买家',value:`Thank you for understanding, hope you can get your item soon! have a nice day.
 `},
 		{
