@@ -25,7 +25,7 @@ var json = {
 			title:'退半款',value:`Would you kindly accept half refund as apology, sorry about this situation.
 `},
 		{
-			title:'退全款',value:`Would you kindly accept full refund as apology, sorry about this situation. hope you are not leaving any negaitve feedback.
+			title:'退全款',value:`Would you kindly accept full refund as apology, sorry about this situation. hope you are not leaving any negative feedback.
 `},
 		{
 			title:'回给冷静的买家',value:`Thank you for understanding, hope you can get your item soon! have a nice day.
