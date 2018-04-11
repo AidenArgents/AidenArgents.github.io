@@ -43,6 +43,9 @@ var json = {
 			title:'一般的回复',value:`thanks for your long time support. have a nice day.
 `},
 		{
+			title:'为什么取消我的订单',value:`oh, that one, is in paid pending status, means you paid, but paypal didn't give it to me, sometimes it happen, because paypal, ebay and my system not connect very well, if you still want it, you can buy again, I believe you already got refund from paypal. sorry about this situation, shit happens.
+`},
+		{
 			title:'买家收到物品 并且很满意，让买家确认物品已准时送达',value:`Dear friend,I’m so glad to hear that. Thank you very much for your kind message, we are happy to know that you have received your item. If you like our item or if you are satisfied with our service, hope you can leave us a positive feedback with all five star, meanwhile, you can confirm the item was delivered on time(connect to on-time delivery question, please say YES), that is very important to our business success. Thank you. Looking forward to next cooperation. Best wishes.
 `}
 	     ]
