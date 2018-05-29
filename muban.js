@@ -40,7 +40,7 @@ var json = {
 			title:'假重发',value:`Sorry about this situation, how about resend you a new product? you can reject one parcel after you receive either one of them, is this acceptable?
 `},
 		{
-			title:'同意假重发',value:`Thank you for understanding, we will arrange it in 12 hours, have a nice day.
+			title:'同意假重发',value:`Thank you for understanding, we will arrange it in 12 hours, hope you can get your item soon. have a nice day.
 `},
 		{
 			title:'一般的回复',value:`thanks for your long time support. have a nice day.
