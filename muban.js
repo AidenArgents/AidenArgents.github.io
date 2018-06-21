@@ -28,10 +28,10 @@ var json = {
 			title:'退全款',value:`Would you kindly accept full refund as apology, sorry about this situation. hope you are not leaving any negative feedback.
 `},
 		{
-			title:'少发',value:`I'm sorry about this, it must be forgotten when packing, our warehouse worker have lots of package need to prepare everyday, hope you will belive and understand, would you kindly accept refund of this missing product? Could you please not leaving bad review?
+			title:'少发',value:`I'm sorry about this, it must be forgotten when packing, our warehouse worker have lots of package need to prepare everyday, hope you will believe and understand, would you kindly accept refund of this missing product? Could you please not leaving bad review?
 `},
 		{
-			title:'错发',value:`I'm sorry about this, it must be wrong-packed when packing, our warehouse worker have lots of package need to prepare everyday, hope you will belive and understand, would you kindly accept refund of this wrong sent product? Could you please not leaving bad review?
+			title:'错发',value:`I'm sorry about this, it must be wrong-packed when packing, our warehouse worker have lots of package need to prepare everyday, hope you will believe and understand, would you kindly accept refund of this wrong sent product? Could you please not leaving bad review?
 `},
 		{
 			title:'回给冷静的买家',value:`Thank you for understanding, hope you can get your item soon! have a nice day.
