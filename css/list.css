@@ -42,7 +42,7 @@ a{color:#000;text-decoration:none}a:hover{color:#884400;text-decoration:underlin
 .scrolltab .dSmallPic{width:882px;height:144px;position:absolute;left:53px;top:0px;overflow:hidden;}
 .scrolltab .dSmallPic ul{position:absolute;}
 .scrolltab .dSmallPic li{width:141px;height:139px;border:1px solid #fff;padding:3px 2px 0;float:left;display:inline;cursor:pointer;overflow:hidden;}
-.scrolltab .dSmallPic .sPic{width:141px;height:106px;display:block;}
+.scrolltab .dSmallPic .sPic{width:101px;height:101px;display:block;}
 .scrolltab .dSmallPic .sPic img{border:1px solid #ddd;padding:2px;}
 .scrolltab .dSmallPic .sTitle{width:141px;height:30px;line-height:30px;display:block;text-align:center;color:#333;overflow:hidden;}
 .scrolltab .dSmallPic .liSelected{border-color:#e9c184;}
